@@ -1,0 +1,30 @@
+.all{
+    
+    color: black;
+}
+.ba{
+    background-color: aquamarine;
+}
+.search-bar {
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(198, 231, 198);
+    
+text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+ 
+  
+  .search-input {
+    flex-grow: 1;
+    margin-right: 16px;
+  }
+  .tt{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+  }
+ .drop{
+    
+ }

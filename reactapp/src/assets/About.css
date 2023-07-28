@@ -1,0 +1,41 @@
+.out{
+    background-image: url("D:\gardeningstore\src\img\Bg12.jpg");
+}
+.about-page {
+    border: 5px solid rgb(117, 174, 179);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:antiquewhite;
+  }
+  
+  h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-bottom: 6px;
+  }
+  
+  p {
+    margin-bottom: 16px;
+  }
+  
+  li {
+    margin-bottom: 8px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  ol {
+    padding-left: 20px;
+  }

@@ -1,0 +1,68 @@
+.container{
+    margin-left: 9%;
+    font-size: 20px;
+    background-color: rgb(205, 196, 196);
+    width: 50%;
+    margin-top: -700px;
+    padding: 5%;
+    margin-left: 23%;
+    margin-bottom: -210px;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ig{
+    
+    background-image: url("D:\gardeningstore\src\img\admin.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.bon{
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 0);
+    background-color: rgb(104, 104, 104);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.ia{
+    background-image: url("");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+/* Post.css */
+
+
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  
+  
+  .success-message {
+    background-color: #dff0d8;
+    color: #3c763d;
+    padding: 10px;
+    border-radius: 3px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .submit{
+    margin-left: 200px;
+  }
+ /* Post.css */
+
+
+  

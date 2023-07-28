@@ -1,0 +1,12 @@
+.img12{
+    background-image: url("img/admin.jpg");
+    background-repeat: no-repeat;
+    
+    background-size : cover;
+    background-position : center;
+}
+.color1{
+    /* background-image: url("bg2.jpg"); */
+    background-size: cover;
+    background-color: #6a6c68;
+}

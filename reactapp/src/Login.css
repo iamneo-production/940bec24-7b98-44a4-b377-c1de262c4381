@@ -1,0 +1,29 @@
+.img{
+    background-image: url("img/Bg1.jpg");
+    background-repeat: no-repeat;
+    
+    background-size : cover;
+    background-position : center;
+}
+.color{
+    /* background-image: url("bg2.jpg"); */
+    background-size: cover;
+    background-color: #CAB19B;
+}
+.txt{
+    color: rgb(0, 0, 0);
+}
+.cl{
+    
+    background-color: rgba(255, 255, 255, 0.689);
+}
+#email-label{
+    color:black;
+}
+#passwords-label
+{
+    color: black;
+}
+.txx{
+    font-size: 17px;
+}
